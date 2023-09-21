@@ -5,3 +5,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 2
 <img width="637" alt="image" src="https://github.com/Meining89/ECE444-F2023-Lab1/assets/97919828/852600d2-c16a-49e4-a136-81e14fd6e2ef">
+
+## Activity 3
+<img width="1051" alt="image" src="https://github.com/Meining89/ECE444-F2023-Lab1/assets/97919828/ad238486-0b33-4159-846a-15e4b1b873fe">
