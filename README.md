@@ -9,3 +9,7 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 3
 <img width="1057" alt="Pasted Graphic 7" src="https://github.com/Meining89/ECE444-F2023-Lab1/assets/97919828/e1ba3bec-ff1c-4f1e-84e2-5665cead81d2">
+
+## Activity4
+<img width="1038" alt="Pasted Graphic 8" src="https://github.com/Meining89/ECE444-F2023-Lab1/assets/97919828/22f7d2f8-02ee-45f5-8894-1ee3f6a87f4a">
+<img width="1199" alt="Pasted Graphic 9" src="https://github.com/Meining89/ECE444-F2023-Lab1/assets/97919828/76982497-90b0-4a07-a9ca-d232bd3391cf">
